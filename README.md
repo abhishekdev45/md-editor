@@ -13,7 +13,7 @@ To run the app locally, follow these steps:
 2. **Navigate to the Project Directory**
 
     ```bash
-    cd react-markdown-editor
+    cd md-editor
     ```
  
 3. **Install Dependencies**
